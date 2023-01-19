@@ -1,0 +1,22 @@
+{
+  "name": "itis-6177-week-01",
+  "version": "1.0.0",
+  "description": "week1repo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchellBath/ITIS-6177-Week-01.git"
+  },
+  "author": "Mitchell Bath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchellBath/ITIS-6177-Week-01/issues"
+  },
+  "homepage": "https://github.com/MitchellBath/ITIS-6177-Week-01#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
